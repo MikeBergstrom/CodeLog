@@ -1,4 +1,4 @@
 August 3rd:
     First day starting a log of code to track progress and get some commits!
     Working on C# web projects - time display, dojo survey, random passcode etc. 
-    
+    Testing using the VS code built in git
