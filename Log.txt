@@ -2,3 +2,6 @@ August 3rd:
     First day starting a log of code to track progress and get some commits!
     Working on C# web projects - time display, dojo survey, random passcode etc. 
     Testing using the VS code built in git
+
+August 8th:
+    Completed The Wall for C#. Moving on to ORM section and preparing for belt exam. Learned about front and back end model binding, and form validations.
