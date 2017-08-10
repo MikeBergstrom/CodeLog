@@ -5,3 +5,7 @@ August 3rd:
 
 August 8th:
     Completed The Wall for C#. Moving on to ORM section and preparing for belt exam. Learned about front and back end model binding, and form validations.
+
+August 9th:
+
+Working with Dapper ORM. Completed Lost in the Woods assignment. Working with Dapper relational models on Dojo League assignment.
