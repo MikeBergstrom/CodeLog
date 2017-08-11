@@ -9,3 +9,7 @@ August 8th:
 August 9th:
 
 Working with Dapper ORM. Completed Lost in the Woods assignment. Working with Dapper relational models on Dojo League assignment.
+
+August 10th:
+
+Learning Entity Framework. Assignments RESTauranter and Bank Account. Moving on to belt prep tomorrow.
