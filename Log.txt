@@ -13,3 +13,7 @@ Working with Dapper ORM. Completed Lost in the Woods assignment. Working with Da
 August 10th:
 
 Learning Entity Framework. Assignments RESTauranter and Bank Account. Moving on to belt prep tomorrow.
+
+September 8th:
+
+Last day of career services, on to finding employment!
