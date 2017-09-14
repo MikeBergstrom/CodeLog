@@ -17,3 +17,7 @@ Learning Entity Framework. Assignments RESTauranter and Bank Account. Moving on 
 September 8th:
 
 Last day of career services, on to finding employment!
+
+September 14th:
+
+Applying for jobs. Got smart outlet working with Alexa and IoT Button. IoT button required custom settings on router and python lamba function. Fun stuff!
